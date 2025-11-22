@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-Xinyu Fei is an Applied Scientist II at Amazon.com, focusing on ML-integrated optimization algorithm design and GenAI reasoning for optimization. Xinyu received her Ph.D. in Operations Research and Scientific Computing from the University of Michigan, advised by [Prof. Siqian Shen](https://websites.umich.edu/~siqian/). 
+Xinyu Fei is an Applied Scientist II at Amazon.com, focusing on ML-integrated mixed-integer optimization algorithm design and GenAI reasoning for optimization. Xinyu received her Ph.D. in Operations Research and Scientific Computing from the University of Michigan, advised by [Prof. Siqian Shen](https://websites.umich.edu/~siqian/). 
 
 Xinyu has been awarded:
 - Pritsker Doctoral Dissertation Award, IISE 2024
